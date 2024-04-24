@@ -101,3 +101,5 @@ To run this project, you will need to edit the following environment variables p
 ***Set-Up your app on Spotify for Developers site and get your 'clientId' and add your 'redirectUri' there.***
 
 ***Use a Premium Account for most of the features.***
+
+***Might add more features in the future***
